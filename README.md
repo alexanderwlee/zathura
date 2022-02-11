@@ -1,0 +1,1 @@
+Alex's zathura configuration.

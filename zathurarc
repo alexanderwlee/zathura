@@ -1,0 +1,4 @@
+set window-height 1100
+set window-width 1600
+set selection-clipboard clipboard
+set recolor true
